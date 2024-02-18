@@ -1,6 +1,10 @@
 # CalcVox H2 Schematics and PCB Files
 
+[View in Browser](https://kicanvas.org/?github=https://github.com/CalcVox/CalcVox_H2)
+
 This is part of the [CalcVox](https://calcvox.org) Project. I am using KiCAD for these but I have included images below. 
+
+I am trying to make these accessible but am struggling. If you know how to please open an issue.
 
 ## Parts
 
