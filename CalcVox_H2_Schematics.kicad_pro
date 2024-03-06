@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../3dtest/CalcVox_H2_Schematics.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
